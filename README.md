@@ -1,34 +1,3 @@
----
-license: other
-tags:
-  - face-recognition
-  - computer-vision
-  - convrec
-  - face-verification
-  - face-identification
-  - biometrics
-metrics:
-  - accuracy
-model-index:
-  - name: ConvRec Face Recognition
-    results:
-      - task:
-          type: face-recognition
-        metrics:
-          - type: accuracy
-            value: 97.56
-            name: Training Accuracy
-          - type: roc-auc
-            value: 1.0
-            name: ROC-AUC Score
-datasets:
-  - CASIA-WebFace
-language:
-  - en
-library_name: pytorch
-pipeline_tag: feature-extraction
----
-
 # ConvRec Face Recognition Model
 
 A proprietary high-performance face recognition model developed by ConvAI Innovations, achieving **97.56% accuracy** on 5000 identities through our progressive training methodology.
@@ -44,7 +13,11 @@ A proprietary high-performance face recognition model developed by ConvAI Innova
 ## Quick Start
 
 ### Installation
+#### Download the model
 
+```bash
+wget https://huggingface.co/convaiinnovations/convrec-face-recognition/resolve/main/best_model.pth
+```
 ```bash
 pip install torch torchvision pillow numpy tqdm
 ```
