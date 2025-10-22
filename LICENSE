@@ -1,0 +1,81 @@
+PROPRIETARY LICENSE AGREEMENT
+
+Copyright (c) 2024 ConvAI Innovations Pvt. Ltd.
+All Rights Reserved.
+
+ConvAI Innovations Pvt. Ltd.
+Kerala Startup Mission Office
+ASAP Community Skill Park
+Kasaragod, Kerala, India
+
+================================================================================
+
+CONVREC FACE RECOGNITION MODEL - PROPRIETARY SOFTWARE LICENSE
+
+This software and associated documentation files (the "Software"), including but
+not limited to the ConvRec face recognition model, training code, inference
+scripts, and related materials, are the proprietary property of ConvAI
+Innovations Pvt. Ltd. ("the Company").
+
+TERMS AND CONDITIONS:
+
+1. OWNERSHIP
+   The Software, including all intellectual property rights therein, is and
+   shall remain the exclusive property of ConvAI Innovations Pvt. Ltd.
+
+2. LICENSE GRANT
+   No license, right, or interest in the Software is granted except as
+   expressly set forth in a separate written license agreement executed by
+   ConvAI Innovations Pvt. Ltd.
+
+3. RESTRICTIONS
+   You may NOT:
+   - Use, copy, modify, or distribute the Software without explicit written
+     permission from ConvAI Innovations Pvt. Ltd.
+   - Reverse engineer, decompile, or disassemble the Software
+   - Remove or alter any proprietary notices or labels on the Software
+   - Use the Software for commercial purposes without a commercial license
+   - Create derivative works based on the Software
+   - Transfer, sublicense, or assign your rights to the Software
+
+4. COMMERCIAL LICENSING
+   For commercial use, integration, or licensing inquiries, please contact:
+   ConvAI Innovations Pvt. Ltd.
+   Email: contact@convaiinnovations.com
+   Website: https://huggingface.co/convaiinnovations
+
+5. RESEARCH AND EVALUATION
+   Limited evaluation and research use may be permitted under separate
+   written agreement. Contact the Company for research license terms.
+
+6. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+   FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+7. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL CONVAI INNOVATIONS PVT. LTD. BE LIABLE FOR ANY CLAIM,
+   DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+8. TERMINATION
+   Any unauthorized use of the Software will result in immediate termination
+   of any implied permissions and may result in legal action.
+
+9. GOVERNING LAW
+   This license shall be governed by and construed in accordance with the
+   laws of India, without regard to its conflict of law provisions.
+
+================================================================================
+
+For licensing inquiries and permissions:
+ConvAI Innovations Pvt. Ltd.
+Kerala Startup Mission Office
+ASAP Community Skill Park
+Kasaragod, Kerala, India
+
+Contact: https://huggingface.co/convaiinnovations/convrec-face-recognition
+
+================================================================================
+
+UNAUTHORIZED USE, REPRODUCTION, OR DISTRIBUTION IS STRICTLY PROHIBITED AND
+MAY RESULT IN SEVERE CIVIL AND CRIMINAL PENALTIES.
