@@ -2,6 +2,8 @@
 
 A proprietary high-performance face recognition model developed by ConvAI Innovations, achieving **97.56% accuracy** on 5000 identities through our progressive training methodology.
 
+## Huggingface Repo at : https://huggingface.co/convaiinnovations/convrec-face-recognition
+
 ## Model Performance
 
 - **Training Accuracy**: 97.56%
